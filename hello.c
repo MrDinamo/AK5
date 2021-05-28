@@ -1,6 +1,6 @@
 
 /*
- * Copyright (c) 2017, GlobalLogic Ukraine LLC
+ * Copyright (c) 2017, GlobalLogic Ukraine LLC test
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
