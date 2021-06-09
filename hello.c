@@ -33,7 +33,7 @@
 #include <linux/module.h>
 #include <linux/printk.h>
 
-MODULE_AUTHOR("Kovalkov Dima");
+MODULE_AUTHOR("Kovalkov Dima loh");
 MODULE_DESCRIPTION("Hello, world in Linux Kernel Labworks");
 MODULE_LICENSE("Dual BSD/GPL");
 
